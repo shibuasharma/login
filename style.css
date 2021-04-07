@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+}
+label{
+   color: black;
+}
+form{
+    text-align: center;
+    
+}
+input{
+    margin: 2px;
+}
+button{
+    background-color: green;
+}
+.yes{
+    background-color: red;
+}
+h1{
+    color: black;
+}
